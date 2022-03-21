@@ -32,5 +32,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
 <br/><br/>
+[!['s github stats](https://github-readme-stats.vercel.app/api?username=alreadynyeong&custom_title={타이틀(string)}&bg_color=05022C&title_color=FFD966&text_color=FFD966)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alreadynyeong&&show_icons=true&theme=highcontrast)
 
