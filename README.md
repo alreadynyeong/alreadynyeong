@@ -23,4 +23,5 @@
 <!--   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=Node.js&logoColor=white"/> -->
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=유저이름&&show_icons=true&theme=테마이름)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeong)](https://github.com/사minhyeong/github-readme-stats)
+
