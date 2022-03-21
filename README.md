@@ -3,5 +3,5 @@
 ## ***⭐ABOUT ME⭐***
 
 <div align="center">
-  Sungshin Women's Univ<br/>Computr Engineering
+  *Sungshin Women's Univ<br/>Computr Engineering*
 </div>
