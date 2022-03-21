@@ -5,3 +5,7 @@
 <div align="center">
   Sungshin Women's Univ<br/>Computr Engineering
 </div>
+
+## ***⭐TECT STACK⭐***
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
