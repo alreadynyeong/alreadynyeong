@@ -2,4 +2,6 @@
 
 ## ***⭐ABOUT ME⭐***
 
-Sungshin Women's <br/>Univ Computr Engineering
+<div align="center">
+  Sungshin Women's <br/>Univ Computr Engineering
+</div>
