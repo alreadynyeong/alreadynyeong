@@ -2,5 +2,6 @@
 
 ## ***⭐ABOUT ME⭐***
 
-- Sungshin Women's Univ
+Sungshin Women's Univ 
+Computer Engineering
 
