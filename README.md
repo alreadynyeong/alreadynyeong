@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=LeeMinHyeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode&height=300&section=footer&text=LeeMinHyeong&fontSize=90)
