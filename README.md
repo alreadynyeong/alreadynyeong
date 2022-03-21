@@ -2,8 +2,6 @@
 
 ## ***⭐ABOUT ME⭐***
 
-#### Sungshin Women's Univ<br/></br>Computr Engineering
-
 <a href="https://www.instagram.com/br.__ght/">
     <img 
         src="http://img.shields.io/badge/-instagram-05022C?style=flat&logo=Instagram&link=https://www.instagram.com/br.__ght/"
@@ -13,6 +11,8 @@
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+#### Sungshin Women's Univ<br/></br>Computr Engineering
 
 ## ***⭐TECT STACK⭐***
 
