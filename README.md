@@ -23,6 +23,4 @@
 <!--   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=Node.js&logoColor=white"/> -->
 </div>
 
-<div aligin="center">
-  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=alreadynyeong)](https://github.com/alreadynyeong/github-readme-stats)
-</div>
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사alreadynyeong)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical
