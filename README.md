@@ -2,9 +2,8 @@
 
 ## ***⭐ABOUT ME⭐***
 
-<div align="center">
-  Sungshin Women's Univ<br/>Computr Engineering
-</div>
+
+#### Sungshin Women's Univ<br/>Computr Engineering
 
 ## ***⭐TECT STACK⭐***
 
