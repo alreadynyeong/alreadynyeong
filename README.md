@@ -23,4 +23,4 @@
 <!--   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=Node.js&logoColor=white"/> -->
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alreadynyeong&&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alreadynyeong&&show_icons=true&theme=highcontrast)
