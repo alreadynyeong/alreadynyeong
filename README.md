@@ -32,5 +32,5 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
 <br/><br/>
-[!['s github stats](https://github-readme-stats.vercel.app/api?username=alreadynyeong&count_private=1&custom_title=My_bright_github🌠&bg_color=05022C&title_color=FFD966&text_color=FFD966)](https://github.com/anuraghazra/github-readme-stats)
+[!['s github stats](https://github-readme-stats.vercel.app/api?username=alreadynyeong&count_private=true&custom_title=My_bright_github🌠&bg_color=05022C&title_color=FFD966&text_color=FFD966)](https://github.com/anuraghazra/github-readme-stats)
 
