@@ -18,6 +18,6 @@
   <br/>
   <img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=Node.js&logoColor=white"/> ing..
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 
