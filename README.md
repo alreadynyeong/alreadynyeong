@@ -9,7 +9,7 @@
 </a>
 <a href="https://blog.naver.com/kjw87130">
       <img
-      src="http://img.shields.io/badge/-Tech%20Blog-bdffc1?style=flat&logo=naver&link=https://blog.naver.com/kjw87130"
+      src="http://img.shields.io/badge/-Blog-bdffc1?style=flat&logo=naver&link=https://blog.naver.com/kjw87130"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
 <a href="mailto:already.nyeong@gmail.com">
