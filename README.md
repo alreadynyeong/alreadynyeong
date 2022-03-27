@@ -28,6 +28,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=Node.js&logoColor=white"/> 
+  <br/>
   <img src ="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=Node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=Node.js&logoColor=white"/> 
   <br/>
