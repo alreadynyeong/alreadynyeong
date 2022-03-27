@@ -7,6 +7,11 @@
         src="http://img.shields.io/badge/-instagram-05022C?style=flat&logo=Instagram&link=https://www.instagram.com/br.__ght/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://blog.naver.com/kjw87130">
+      <img
+      src="http://img.shields.io/badge/-Tech%20Blog-bdffc1?style=flat&logo=naver&link=https://blog.naver.com/kjw87130"
+      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 <a href="mailto:already.nyeong@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
