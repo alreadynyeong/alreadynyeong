@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=05022C&height=150&section=footer&text=Lee%20MinHyeong&fontSize=50&fontColor=FFD966)
+![header](https://capsule-render.vercel.app/api?type=rect&color=05022C&height=150&section=footer&text=Lee%20MinHyeong&fontSize=45&fontColor=FFD966)
 
 ## ***⭐ABOUT ME⭐***
 
