@@ -17,7 +17,7 @@
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-#### Sungshin Women's Univ<br/></br>Computr Engineering
+#### Sungshin Women's Univ<br/></br>Computer Engineering
 
 ## ***⭐TECT STACK⭐***
 
