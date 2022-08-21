@@ -22,7 +22,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 ## ***⭐TECT STACK⭐***
 
 <div align="left">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=css3&logoColor=white"/> 
   <br/>
