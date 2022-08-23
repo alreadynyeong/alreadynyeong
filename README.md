@@ -11,10 +11,11 @@
       <img
       src="http://img.shields.io/badge/-Blog-bdffc1?style=flat&logo=naver&link=https://blog.naver.com/kjw87130"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
+</a>
 <a href="mailto:already.nyeong@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img 
+    src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
+    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 #### Sungshin Women's Univ<br/></br>Computer Engineering
