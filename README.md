@@ -14,7 +14,7 @@
 </a>
 <a href="mailto:already.nyeong@gmail.com">
     <img 
-    src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
+    src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
