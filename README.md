@@ -17,6 +17,11 @@
     src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+ <a href="https://jeongjunseo-portfolio.notion.site/1b689f5b28884e67af14ae22a37a3e10">
+      <img
+      src="http://img.shields.io/badge/Portfolio-ef99e8?style=flat&logo=notion&link=https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6"
+      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 
 #### Sungshin Women's Univ<br/></br>Computer Engineering
 
