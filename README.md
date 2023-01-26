@@ -5,19 +5,22 @@
         src="http://img.shields.io/badge/-instagram-05022C?style=flat&logo=Instagram&link=https://www.instagram.com/br.__ght/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 <a href="https://blog.naver.com/kjw87130">
       <img
-      src="http://img.shields.io/badge/-Blog-bdffc1?style=flat&logo=naver&link=https://blog.naver.com/kjw87130"
+      src="http://img.shields.io/badge/-Blog-05022C?style=flat&logo=naver&link=https://blog.naver.com/kjw87130"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 <a href="mailto:already.nyeong@gmail.com">
     <img 
-    src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
+    src="https://img.shields.io/badge/Gmail-05022C?style=flat&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
  <a href="https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6">
       <img
-      src="http://img.shields.io/badge/Portfolio-ef99e8?style=flat&logo=notion&link=https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6"
+      src="http://img.shields.io/badge/Portfolio-05022C?style=flat&logo=notion&link=https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
 
