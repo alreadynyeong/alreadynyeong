@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=05022C&height=150&section=footer&text=Lee%20MinHyeong&fontSize=45&fontColor=FFD966)
-
-
-## ***⭐ABOUT ME⭐***
+## ***ABOUT ME***
 
 <a href="https://www.instagram.com/br.__ght/">
     <img 
@@ -26,7 +23,7 @@
 
 #### Sungshin Women's Univ<br/></br>Computer Engineering
 
-<!-- ## ***⭐TECT STACK⭐***
+<!-- ## ***TECT STACK***
 
 <div align="left">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
