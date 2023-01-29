@@ -46,5 +46,6 @@
 <!-- </div> --> 
 
 <!-- <br/><br/> -->
-[!['s github stats](https://github-readme-stats.vercel.app/api?username=alreadynyeong&count_private=true&custom_title=My%20bright%20github🌠&bg_color=05022C&title_color=FFD966&text_color=FFD966)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [!['s github stats](https://github-readme-stats.vercel.app/api?username=alreadynyeong&count_private=true&custom_title=My%20bright%20github🌠&bg_color=05022C&title_color=FFD966&text_color=FFD966)](https://github.com/anuraghazra/github-readme-stats) -->
 
