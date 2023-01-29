@@ -1,5 +1,11 @@
 <!-- ## ***ABOUT ME*** -->
 
+<a href="https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6">
+      <img
+      src="http://img.shields.io/badge/Portfolio-05022C?style=flat&logo=notion&link=https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6"
+      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+
 <a href="https://www.instagram.com/br.__ght/">
     <img 
         src="http://img.shields.io/badge/-instagram-05022C?style=flat&logo=Instagram&link=https://www.instagram.com/br.__ght/"
@@ -17,12 +23,6 @@
     src="https://img.shields.io/badge/Gmail-05022C?style=flat&logo=Gmail&logoColor=white&link=mailto:already.nyeong@gmail.com"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
- <a href="https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6">
-      <img
-      src="http://img.shields.io/badge/Portfolio-05022C?style=flat&logo=notion&link=https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6"
-      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
 
 #### Sungshin Women's Univ<br/></br>Computer Engineering
 
