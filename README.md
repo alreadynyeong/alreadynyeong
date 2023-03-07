@@ -1,6 +1,6 @@
 <!-- ## ***ABOUT ME*** -->
 
-<a href="https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6">
+<a href="https://already-nyeong.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6">
       <img
       src="http://img.shields.io/badge/Portfolio-05022C?style=flat&logo=notion&link=https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
