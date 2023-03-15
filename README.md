@@ -12,11 +12,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://blog.naver.com/kjw87130">
+<!-- <a href="https://blog.naver.com/kjw87130">
       <img
       src="http://img.shields.io/badge/-Blog-05022C?style=flat&logo=naver&link=https://blog.naver.com/kjw87130"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> -->
 
 <a href="mailto:already.nyeong@gmail.com">
     <img 
