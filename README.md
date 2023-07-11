@@ -1,6 +1,40 @@
+```javascript
+{
+      info: {
+            name: 'Lee Minhyeong',
+            univ: 'Sungshin W. Univ.',
+            major: 'Computer Engineering'
+      },
+
+      contact: {
+            gmail: 'already.nyeong@gmail.com'
+      },
+
+      deploy : {
+            skills:
+                  [ 'React', 'Next', 'React-native' ],
+            language:
+                  [ 'Typescript', 'Javascript', 'Python' ],
+            tools:
+                  [ 'Figma', 'Jira/Confluence', 'Notion', 'Slack/Discord' ]
+      }
+}
+```
+
+
+<!--
+방문자
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falreadynyeong&count_bg=%23557153&title_bg=%237D8F69&icon=&icon_color=%23E7E7E7&title=HI&edge_flat=false)](https://hits.seeyoufarm.com)
+
+언어
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alreadynyeong&layout=donut)](https://github.com/alreadynyeong/github-readme-stats)
+-->
+
 <!-- ## ***ABOUT ME*** -->
 
-<!-- <a href="https://already-nyeong.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6">
+
+<!-- 
+<a href="https://already-nyeong.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6">
       <img
       src="http://img.shields.io/badge/Portfolio-05022C?style=flat&logo=notion&link=https://furtive-wormhole-549.notion.site/Portfolio-debebb65bcf2427f87f58d0acba63de6"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -24,7 +58,7 @@
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> -->
 
-#### Sungshin Women's Univ<br/></br>Computer Engineering
+<!-- #### Sungshin Women's Univ<br/></br>Computer Engineering -->
 
 <!-- ## ***TECT STACK***
 
