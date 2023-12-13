@@ -20,9 +20,9 @@
 
       deploy : {
             skills:
-                  [ 'React', 'Next', 'React-native' ],
+                  [ 'React', 'Next', 'React-native', 'Node.js' ],
             language:
-                  [ 'Typescript', 'Javascript', 'Python' ],
+                  [ 'Typescript', 'Javascript' ],
             tools:
                   [ 'Figma', 'Jira/Confluence', 'Notion', 'Slack/Discord' ]
       }
