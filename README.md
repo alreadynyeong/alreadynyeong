@@ -10,8 +10,7 @@
       info: {
             name: 'Lee Minhyeong',
             univ: 'Sungshin W. Univ.',
-            major: 'Computer Engineering',
-            insta: '@br.__ght'
+            major: 'Computer Engineering'
       },
 
       contact: {
