@@ -19,7 +19,7 @@
 
       deploy : {
             skills:
-                  [ 'React', 'Next', 'React-native', 'Node.js' ],
+                  [ 'React', 'Next', 'React-native', 'express.js' ],
             language:
                   [ 'Typescript', 'Javascript' ],
             tools:
